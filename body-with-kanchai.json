@@ -1,0 +1,310 @@
+{
+  "date": "2026-03-14",
+  "total_sources": 11,
+  "categories": {
+    "AI大模型": [
+      {
+        "title": "Meta计划大规模裁员，或影响20%以上员工",
+        "url": "https://36kr.com/newsflashes/3722133233858948",
+        "source": "36氪"
+      },
+      {
+        "title": "Claude Opus 4.6与Sonnet 4.6上线百万上下文窗口",
+        "url": "https://36kr.com/newsflashes/3722131061700996",
+        "source": "36氪"
+      },
+      {
+        "title": "GitHub Copilot学生免费套餐\"降本\"引众怒",
+        "url": "https://m.ithome.com/html/928628.htm",
+        "source": "IT之家"
+      },
+      {
+        "title": "Adobe CEO将辞职，股价跌7% - AI冲击受害者",
+        "url": "https://tech.ifeng.com/c/8rS48582dlW",
+        "source": "凤凰科技"
+      },
+      {
+        "title": "Codex不打算让Claude Code好过",
+        "url": "https://www.huxiu.com/article/4842028.html",
+        "source": "虎嗅"
+      },
+      {
+        "title": "Anthropic斥资1亿美元启动Claude合作网络",
+        "url": "https://tech.ifeng.com/c/8rRrPA4DBEm",
+        "source": "凤凰科技"
+      },
+      {
+        "title": "中国AI视频最大单笔融资给爱诗科技",
+        "url": "https://tech.ifeng.com/c/8rSIYnwPi5w",
+        "source": "凤凰科技"
+      },
+      {
+        "title": "亚马逊AI购物禁令法院发布临时禁令",
+        "url": "https://m.ithome.com/html/928624.htm",
+        "source": "IT之家"
+      },
+      {
+        "title": "中美AI智能体之争中国\"龙虾热\"或催生优势",
+        "url": "https://tech.ifeng.com/c/8rSDK5b0vmr",
+        "source": "凤凰科技"
+      },
+      {
+        "title": "能用眼镜做饭？老板电器发布全球首款AI",
+        "url": "https://www.ikanchai.com/article/20260312/651619.shtml",
+        "source": "砍柴网"
+      },
+      {
+        "title": "星火内容运营大师：AIGC内容运营平台",
+        "url": "https://turbodesk.xfyun.cn?channelid=kcw",
+        "source": "砍柴网"
+      },
+      {
+        "title": "黄仁勋被曝下月亲临柏林，将宣布欧洲 AI 算力枢纽项目",
+        "url": "https://news.ikanchai.com/2025/1028/641383.shtml",
+        "source": "砍柴网"
+      }
+    ],
+    "融资/商业": [
+      {
+        "title": "魔法原子完成5亿融资IPO关键期创始人离职",
+        "url": "https://tech.ifeng.com/c/8rS2qMh30e6",
+        "source": "凤凰科技"
+      },
+      {
+        "title": "领益智造赴港上市相关工作正有序推进",
+        "url": "https://36kr.com/newsflashes/3720682891213192",
+        "source": "36氪"
+      },
+      {
+        "title": "Google 320亿美元现金收购Wiz完成交易",
+        "url": "https://www.solidot.org/story?sid=83746",
+        "source": "奇客Solidot"
+      },
+      {
+        "title": "东吴证券拟收购东海证券83.77%股权，下周一复盘",
+        "url": "https://36kr.com/newsflashes/3722135806556551",
+        "source": "36氪"
+      },
+      {
+        "title": "SpaceX据悉计划将IPO相关工作分配给多家银行",
+        "url": "https://36kr.com/newsflashes/3722131530480008",
+        "source": "36氪"
+      }
+    ],
+    "智能汽车": [
+      {
+        "title": "理想汽车2026年采用自研电池与宁德双品牌",
+        "url": "https://m.ithome.com/html/928604.htm",
+        "source": "IT之家"
+      },
+      {
+        "title": "小米新一代SU7最后一款新色\"靛石绿\"本月发布",
+        "url": "https://m.ithome.com/html/928623.htm",
+        "source": "IT之家"
+      },
+      {
+        "title": "雷军官宣新一代小米SU7本月正式发布",
+        "url": "https://tech.ifeng.com/c/8rSDrMIby3A",
+        "source": "凤凰科技"
+      },
+      {
+        "title": "Stellantis与小米、小鹏洽谈欧洲业务重组",
+        "url": "https://tech.ifeng.com/c/8rRbAsXIRfH",
+        "source": "凤凰科技"
+      },
+      {
+        "title": "追觅首款汽车亮相零百加速1.8秒60万+",
+        "url": "https://tech.ifeng.com/c/8rSErdmGIDk",
+        "source": "凤凰科技"
+      },
+      {
+        "title": "Intel新笔记本蜂拥而至！联想首发新内存、小米唯一不亮屏",
+        "url": "https://news.mydrivers.com/1/1108/1108878.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "小米笔记本Pro 14官宣即将发布：轻至1.08kg、厚度14.95mm",
+        "url": "https://news.mydrivers.com/1/1108/1108603.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "最强2nm芯片！高通全新骁龙8系Soc来了 小米拿到首发权",
+        "url": "https://news.mydrivers.com/1/1108/1108365.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "业界小米智能家电工厂正式竣工投产：空调自研自产6.5秒下线一台",
+        "url": "https://news.ikanchai.com/2025/1028/641430.shtml",
+        "source": "砍柴网"
+      }
+    ],
+    "国际动态": [
+      {
+        "title": "Shein欧洲真相：丑闻没击垮，加税没打疼",
+        "url": "https://finance.sina.com.cn/tob/2026-03-13/doc-inhqvamt7922838.shtml",
+        "source": "新浪科技"
+      },
+      {
+        "title": "图灵奖得主Tony Hoare去世，发明快速排序",
+        "url": "https://www.solidot.org/story?sid=83736",
+        "source": "奇客Solidot"
+      },
+      {
+        "title": "高盛下调美国经济增长预期",
+        "url": "https://36kr.com/newsflashes/3720714480384641",
+        "source": "36氪"
+      },
+      {
+        "title": "欧盟计划暂停部分免税糖进口，为期一年",
+        "url": "https://36kr.com/newsflashes/3722130112477831",
+        "source": "36氪"
+      },
+      {
+        "title": "美国1月核心PCE物价指数同比升3.1%",
+        "url": "https://36kr.com/newsflashes/3721350727842441",
+        "source": "36氪"
+      },
+      {
+        "title": "暴涨又暴跌 国际油价经历过山车：极限拉扯原因找到了",
+        "url": "https://news.mydrivers.com/1/1108/1108318.htm",
+        "source": "快科技"
+      }
+    ],
+    "数据/产业": [
+      {
+        "title": "我国成功发射卫星互联网低轨20组卫星",
+        "url": "https://news.cctv.com/2026/03/13/ARTICid66zdtnxkn23QvJ89y260313.shtml",
+        "source": "央视"
+      },
+      {
+        "title": "2025年全国海洋生产总值增长5.5%达11万亿",
+        "url": "https://36kr.com/newsflashes/3720755479083399",
+        "source": "36氪"
+      },
+      {
+        "title": "宇树人形机器人2025年出货量全球第一",
+        "url": "https://www.dingkeji.com/post/156129.html",
+        "source": "钉科技"
+      },
+      {
+        "title": "加拿大将释放2360万桶石油储备",
+        "url": "https://36kr.com/newsflashes/3722127309715848",
+        "source": "36氪"
+      },
+      {
+        "title": "沪深两市成交额突破1万亿元",
+        "url": "https://36kr.com/newsflashes/3720746832575104",
+        "source": "36氪"
+      }
+    ],
+    "前沿科技": [
+      {
+        "title": "华为鸿蒙手机也能养龙虾了！何刚晒小艺Claw：一键使用",
+        "url": "https://news.mydrivers.com/1/1108/1108345.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "苹果 M6 MacBook Pro 前瞻：首搭 OLED 触摸屏、首发2nm工艺芯片",
+        "url": "https://news.ikanchai.com/2025/1028/641361.shtml",
+        "source": "砍柴网"
+      }
+    ],
+    "社会/财经": [
+      {
+        "title": "消息称苹果 20 周年款 iPhone 将配自研传感器",
+        "url": "https://news.ikanchai.com/2025/1028/641371.shtml",
+        "source": "砍柴网"
+      }
+    ],
+    "其他": [
+      {
+        "title": "小伙手搓可悬停火箭火爆全网：被网友赞为中国版马斯克",
+        "url": "https://news.mydrivers.com/1/1108/1108576.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "追觅发布全固态动力电池：今年小批量交付 明年大规模量产",
+        "url": "https://news.mydrivers.com/1/1108/1108649.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "帧数起飞！NVIDIA官宣DLSS 6倍动态多帧生成：月底见",
+        "url": "https://news.mydrivers.com/1/1108/1108328.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "12GB显存！中国首款6nm真自研显卡正式发售：适配100+游戏",
+        "url": "https://news.mydrivers.com/1/1108/1108945.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "内存太贵插一根又太丑！全何推1真+3假套装：省钱又有面儿",
+        "url": "https://news.mydrivers.com/1/1108/1108904.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "企业计算",
+        "url": "https://比特网.com/server.chinabyte.com",
+        "source": "比特网"
+      },
+      {
+        "title": "存储",
+        "url": "https://比特网.com/storage.chinabyte.com",
+        "source": "比特网"
+      },
+      {
+        "title": "网络与安全",
+        "url": "https://比特网.com/network.chinabyte.com",
+        "source": "比特网"
+      },
+      {
+        "title": "“讯飞超脑2030”阶段性成果出炉",
+        "url": "http://www.ikanchai.com/article/20221119/511960.shtml",
+        "source": "砍柴网"
+      },
+      {
+        "title": "未来十年 VR/AR 能做到什么",
+        "url": "http://www.ikanchai.com/article/20220916/498661.shtml",
+        "source": "砍柴网"
+      },
+      {
+        "title": "15万级的欧尚Z6内饰公布",
+        "url": "http://www.ikanchai.com/article/20220310/469305.shtml",
+        "source": "砍柴网"
+      },
+      {
+        "title": "业界消息称大疆 Neo 2 无人机起售价 229 美元，畅飞套装 449 美元",
+        "url": "https://news.ikanchai.com/2025/1028/641377.shtml",
+        "source": "砍柴网"
+      },
+      {
+        "title": "业界特斯拉 FSD 订阅率仅 12%，2025 年三季度相关收入同比下滑",
+        "url": "https://news.ikanchai.com/2025/1028/641390.shtml",
+        "source": "砍柴网"
+      },
+      {
+        "title": "业界极氪001被两大货车夹击：车身框架完整",
+        "url": "http://news.ikanchai.com/2023/1123/567862.shtml",
+        "source": "砍柴网"
+      },
+      {
+        "title": "亚马逊再挥裁员大刀，或创2022年来最大规模",
+        "url": "https://news.ikanchai.com/2025/1028/641362.shtml",
+        "source": "砍柴网"
+      },
+      {
+        "title": "比亚迪全新纯电K-Car展车曝光：剑指日本市场，2025东京车展首发",
+        "url": "https://news.ikanchai.com/2025/1027/641282.shtml",
+        "source": "砍柴网"
+      },
+      {
+        "title": "iPhone12年简史：手机之王的荣耀与溃败",
+        "url": "http://news.ikanchai.com/2019/0911/308466.shtml",
+        "source": "砍柴网"
+      }
+    ]
+  },
+  "stats": {
+    "total_news": 57
+  }
+}
