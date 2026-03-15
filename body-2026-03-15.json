@@ -1,0 +1,43 @@
+{
+  "date": "2026-03-15",
+  "total_sources": 2,
+  "categories": {
+    "AI大模型": [
+      {
+        "title": "Meta计划大规模裁员，或影响20%以上员工",
+        "url": "https://36kr.com/newsflashes/3722133233858948",
+        "source": "36氪"
+      },
+      {
+        "title": "Claude Opus 4.6与Sonnet 4.6上线百万上下文窗口",
+        "url": "https://36kr.com/newsflashes/3722131061700996",
+        "source": "36氪"
+      },
+      {
+        "title": "GitHub Copilot学生免费套餐\"降本\"引众怒",
+        "url": "https://m.ithome.com/html/928628.htm",
+        "source": "IT之家"
+      },
+      {
+        "title": "Anthropic斥资1亿美元启动Claude合作网络",
+        "url": "https://tech.ifeng.com/c/8rRrPA4DBEm",
+        "source": "凤凰科技"
+      },
+      {
+        "title": "中国AI视频最大单笔融资给爱诗科技",
+        "url": "https://tech.ifeng.com/c/8rSIYnwPi5w",
+        "source": "凤凰科技"
+      }
+    ],
+    "国际动态": [
+      {
+        "title": "Adobe CEO将辞职，股价跌7%",
+        "url": "https://tech.ifeng.com/c/8rS48582dlW",
+        "source": "凤凰科技"
+      }
+    ]
+  },
+  "stats": {
+    "total_news": 6
+  }
+}

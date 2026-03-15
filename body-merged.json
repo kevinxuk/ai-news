@@ -1,0 +1,133 @@
+{
+  "date": "2026-03-14",
+  "total_sources": 3,
+  "categories": {
+    "AI大模型": [
+      {
+        "title": "å½è³æºå¸¦äºAMOLEDå± å½è´Air1æ·±åº¦è¯æµï¼æ¯æ¶å°è³é¥° æ´æ¯å°è¡¨æå¼º AI è³æº",
+        "url": "https://news.mydrivers.com/1/1105/1105431.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "å·¦æAIå³æå¤§å±ï¼åä¸ºMate X7å¸èçä½éªè¯æµï¼é¸¿èOS 6.0å æ ä¸ä»æ¯æå æ´æ¯æä¸å·¥ä½ç«",
+        "url": "https://news.mydrivers.com/1/1105/1105133.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "299 åå·åºå¤©éï¼åè¶£ Ace1 è³æºè¯æµï¼èªå¸¦ AI ç¿»è¯ä¸ä¼è®®çºªè¦ å®çè½å¹³æ¿ååæè°",
+        "url": "https://news.mydrivers.com/1/1105/1105121.htm",
+        "source": "快科技"
+      }
+    ],
+    "其他": [
+      {
+        "title": "æ¾å¡ççå»åæ¶é¸¦ï¼ä¸å½©è¹iGame RTX 5070 Ultra OCè¯æµï¼åä»·ä½é¢å¼ä¸æ£ç­åå¤©è±æ¿",
+        "url": "https://news.mydrivers.com/1/1109/1109173.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "OLEDæ¶ä»£ç»ç»èï¼RGB-Mini LEDçµè§æµ·ä¿¡E8Sè¯æµï¼è¿ææ¯å¥½ç»è´¨",
+        "url": "https://news.mydrivers.com/1/1108/1108819.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "ååä»·ä½äº®åº¦æé«çæå½±ä»ªæ¥äºï¼åè¶£Q1 Pro Maxè¯æµï¼è¾å¥å»¶è¿è¿ä¹ä¸ºé¶",
+        "url": "https://news.mydrivers.com/1/1108/1108348.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "4.2mm å±å¼ååº¦+æ»¡è¡æ§è½ï¼è£èMagic V6å¨é¢è¯æµï¼çæ­£å¤§æ»¡è´¯çæå å±",
+        "url": "https://news.mydrivers.com/1/1108/1108245.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "AMD X3Dæå¼ºä¼åï¼ä¸å½©è¹iGame X870E Vulcan OC V14ç«ç¥ä¸»æ¿è¯æµï¼ä¸å±ä¼å æ¸©åº¦æ´ä½æ§è½æ´å¼º",
+        "url": "https://news.mydrivers.com/1/1108/1108190.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "å¸æ·é¶æ²³Exos 32TBè¯æµï¼æºæ¢°ç¡¬çå·å³°ï¼å®¹ééåº¦å¯é æ§é½æ å¯æå",
+        "url": "https://news.mydrivers.com/1/1107/1107827.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "åå«éé¢ï¼åç½®é£æ+è¶æè©é® iQOO 15 Ultraå¨é¢è¯æµï¼ è¿ææ¯æ»¡è¡çµç«æè°",
+        "url": "https://news.mydrivers.com/1/1105/1105377.htm",
+        "source": "快科技"
+      },
+      {
+        "title": "企业计算",
+        "url": "https://比特网.com/server.chinabyte.com",
+        "source": "比特网"
+      },
+      {
+        "title": "存储",
+        "url": "https://比特网.com/storage.chinabyte.com",
+        "source": "比特网"
+      },
+      {
+        "title": "网络与安全",
+        "url": "https://比特网.com/network.chinabyte.com",
+        "source": "比特网"
+      },
+      {
+        "title": "企业服务",
+        "url": "https://比特网.com/soft.chinabyte.com",
+        "source": "比特网"
+      },
+      {
+        "title": "云计算",
+        "url": "https://比特网.com/cloud.chinabyte.com",
+        "source": "比特网"
+      },
+      {
+        "title": "人工智能",
+        "url": "https://比特网.com/ai.chinabyte.com",
+        "source": "比特网"
+      },
+      {
+        "title": "物联网5G",
+        "url": "https://比特网.com/iot.chinabyte.com",
+        "source": "比特网"
+      },
+      {
+        "title": "数字化转型",
+        "url": "https://比特网.com/cio.chinabyte.com",
+        "source": "比特网"
+      },
+      {
+        "title": "新基建",
+        "url": "https://比特网.com/www.chinabyte.com/newconstruction/",
+        "source": "比特网"
+      },
+      {
+        "title": "发布会",
+        "url": "https://比特网.com/zhibo.chinabyte.com",
+        "source": "比特网"
+      },
+      {
+        "title": "软件库",
+        "url": "https://比特网.com/www.chinabyte.com/software/",
+        "source": "比特网"
+      },
+      {
+        "title": "企业俱乐部",
+        "url": "https://比特网.com/www.chinabyte.com/eclub/",
+        "source": "比特网"
+      },
+      {
+        "title": "智谱启动龙虾全国部署计划",
+        "url": "https://比特网.com/ai.chinabyte.com/491/341991.shtml",
+        "source": "比特网"
+      },
+      {
+        "title": "高飞的电子替身",
+        "url": "https://科技行者.com/story.solidot.org/",
+        "source": "科技行者"
+      }
+    ]
+  },
+  "stats": {
+    "total_news": 24
+  }
+}
